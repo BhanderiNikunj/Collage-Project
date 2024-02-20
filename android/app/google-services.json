@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514072461574",
+    "project_id": "collage-submission-proje-3f429",
+    "storage_bucket": "collage-submission-proje-3f429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514072461574:android:a494af098b6d59b2161e87",
+        "android_client_info": {
+          "package_name": "com.collage.submission.project.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcqwFuBoi5uJSErKi-fOTFAhgsKA3xFKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
